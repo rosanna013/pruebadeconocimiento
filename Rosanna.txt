@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<meta name="">
+<link="icon" ="descarga/computadora.jpg">
+<heah>
+<main>
+<body>
+
+    <a href="#Introducion"> Introducion </a>
+    <a href="#Contenido"> Contenido </a>
+    <a href="#Conclusion"> Conclusion </a>
+     
+    <h3 id="Introducion">Introducion</a>
+    <p>HTML no es un lenguaje de programación; es un lenguaje de marcado que define la estructura de tu contenido. HTML consiste en una serie de elementos que usarás     para encerrar diferentes partes del contenido para que se vean o comporten de una determinada manera. Las etiquetas de encierre pueden hacer de una palabra o una     imagen un hipervínculo a otro sitio, se pueden cambiar palabras a cursiva, agrandar o achicar la letra.</p>
+
+     <h3 id="Contenido"> Contenido </a>
+    <p>"Hipertexto" hace referencia a los enlaces que conectan páginas web entre sí, ya sea dentro de un único sitio web o entre sitios web. Los enlaces son un aspecto      fundamental de la Web. Al subir contenido a Internet y vincularlo a las páginas creadas por otras personas, te conviertes en un participante activo en la «World      Wide Web» (Red Informática Mundial) </p> 
+
+     <h3 id="Introducion">Introducion</a>
+    <p>El HTML es un lenguaje que reúne una serie de etiquetas y elementos que dan forma a la mayoría de páginas webs que encuentras en la actualidad. En pocas          palabras, indica al navegador cómo va ordenado el contenido, desde los textos, párrafos, títulos, videos e imágenes. </p>
+     
+    <a href="computadora.jpg" dowland=""> Descargar</a>
+    
+
+    <a href="https://es.wikipedia.org/wiki/Plantae" target="_Blanck"> Wikipedia </a>
+    <a href="https://www.ecologiaverde.com/que-son-las-plantas-2865.html" target="_blanck"> Ecologia Verde</a>
+    <a href="https://principia.io/2018/03/02/que-son-las-plantas.IjcyMCI/" target="_black"> Principia </a>
+     
+    <article>
+           <ul><il><a href="descarga/html.png"> HTML <il><ul>
+           <ul><il> <a href="descarga/definicion.png"> Definicion de httml<il> <ul>
+           <ul> <il><a href="descarga/descarga.jpg"> html <il><ul>
+           <ul><il><a a href="descarga/que es html">Que es html <il><ul>
+   <article>
+
+
+   <a href="#Inicio">Inicio</a>
+   <a href="#Acercade">Acerca de </a>
+   <a href="#Servicio">Servicio</a>
+   <a href=#Contacto">Contacto</a>
+
+<body>
+
+<head>
+<html>
+
+
+
